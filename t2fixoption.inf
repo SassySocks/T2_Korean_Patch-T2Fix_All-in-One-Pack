@@ -1,0 +1,6 @@
+[Setup]
+Lang=english
+Group=(Default)
+SetupType=custom
+Components=newdark,dromed,dromed\toolkit,osm,dmm,mods,mods\thief2fixed,mods\carrybody,mods\candles,mods\t2skies,mods\t2water,mods\ep,mods\t2seep,mods\fmdml,multiplayer
+Tasks=vprelow,lame
