@@ -1,5 +1,6 @@
 # T2_Korean_Patch-T2Fix_All-in-One-Pack
 T2_Korean_Patch+T2Fix_All-in-One Pack NSIS 인스톨러 스크립트
+T2Fix 설치파일이 해당 파일들과 같은 디렉토리에 있어야하며, 한글패치는 최신본 압축해제한 상태로 같이 넣어서 패킹
 
 ===========================
  Thief II : The Metal Age 한글 패치 v1.0
